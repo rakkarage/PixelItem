@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Gear.png-077119a2593e31b0f678fa30b30a3ac5.stex"
+path="res://.import/Item.png-5525ac87b9c94fae8f5e509a5a7f72fc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Gear.png"
-dest_files=[ "res://.import/Gear.png-077119a2593e31b0f678fa30b30a3ac5.stex" ]
+source_file="res://Item.png"
+dest_files=[ "res://.import/Item.png-5525ac87b9c94fae8f5e509a5a7f72fc.stex" ]
 
 [params]
 

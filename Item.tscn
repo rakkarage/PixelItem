@@ -1,12 +1,13 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://GearFrames.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://ItemFrames.tres" type="SpriteFrames" id=1]
 
-[node name="Gear" type="Node2D"]
+[node name="Item" type="Node2D"]
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
 scale = Vector2( 12, 12 )
 frames = ExtResource( 1 )
+frame = 14
 playing = true
 centered = false
 offset = Vector2( 8, 8 )
