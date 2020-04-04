@@ -1,6 +1,7 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://ItemFrames.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://PixelItem/ItemFrames.tres" type="SpriteFrames" id=1]
+
 
 [node name="Item" type="Node2D"]
 
