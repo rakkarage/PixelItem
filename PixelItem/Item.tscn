@@ -2,13 +2,11 @@
 
 [ext_resource path="res://PixelItem/ItemFrames.tres" type="SpriteFrames" id=1]
 
-
 [node name="Item" type="Node2D"]
 
 [node name="AnimatedSprite" type="AnimatedSprite" parent="."]
-scale = Vector2( 12, 12 )
+position = Vector2( 100, 100 )
+scale = Vector2( 16, 16 )
 frames = ExtResource( 1 )
-frame = 14
 playing = true
 centered = false
-offset = Vector2( 8, 8 )
