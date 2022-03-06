@@ -1,17 +1,12 @@
 # PixelItem
 
+<img align="right" src="icon.png">
+
 Pixel-perfect lava weapon and armor sprites.
 
-- <https://godotmarketplace.com/publisher/henry-software/>
-- <https://bitbucket.org/rakkarage/pixelitem/issues>
-- <https://github.com/rakkarage/pixelitem/issues>
+- <https://henrysoftware.itch.io/godot-pixel-item>
+- <https://rakkarage.github.io/PixelItem/>
+- <https://guthub.com/rakkarage/PixelItem/>
+- <https://bitbucket.org/rakkarage/PixelItem/>
 
-## Submodules
-
-To include submodules, clone with the --recursive flag:
-
-`git clone --recursive https://bitbucket.org/rakkarage/PixelItem.git`
-
-or download a zip from bitbucket (bitbucket-pipelines.yml) which includes all submodules.
-
-<https://bitbucket.org/rakkarage/pixelitem/downloads/>
+[![.github/workflows/deploy.yml](https://github.com/rakkarage/PixelItem/actions/workflows/deploy.yml/badge.svg)](https://github.com/rakkarage/PixelItem/actions/workflows/deploy.yml)

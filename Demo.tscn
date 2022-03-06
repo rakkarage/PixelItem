@@ -5,6 +5,6 @@
 
 [node name="Demo" type="Node"]
 
-[node name="Gear" parent="." instance=ExtResource( 2 )]
+[node name="Item" parent="." instance=ExtResource( 2 )]
 
 [node name="Intro" parent="." instance=ExtResource( 1 )]
