@@ -1,8 +1,8 @@
 on: [push, workflow_dispatch]
 env:
   GODOT_VERSION: 3.3.4
-  FILE_NAME: PixelFood
-  ITCHIO_GAME: godot-pixel-food
+  FILE_NAME: PixelItem
+  ITCHIO_GAME: godot-pixel-item
   ITCHIO_USERNAME: henrysoftware
   BUTLER_API_KEY: ${{secrets.BUTLER_API_KEY}}
 jobs:
