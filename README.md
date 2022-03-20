@@ -9,5 +9,5 @@ Pixel-perfect lava weapon and armor sprites.
 - 📃 <http://guthub.com/rakkarage/PixelItem>
 - 📃 <http://bitbucket.org/rakkarage/PixelItem>
 
-[![.github/workflows/compress.yml](https://github.com/rakkarage/PixelItem/actions/workflows/deploy.yml/badge.svg)](https://github.com/rakkarage/PixelItem/actions/workflows/compress.yml)
+[![.github/workflows/compress.yml](https://github.com/rakkarage/PixelItem/actions/workflows/compress.yml/badge.svg)](https://github.com/rakkarage/PixelItem/actions/workflows/compress.yml)
 [![.github/workflows/deploy.yml](https://github.com/rakkarage/PixelItem/actions/workflows/deploy.yml/badge.svg)](https://github.com/rakkarage/PixelItem/actions/workflows/deploy.yml)
