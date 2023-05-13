@@ -20,10 +20,19 @@ boot_splash/fullsize=false
 boot_splash/use_filter=false
 config/icon="res://icon.png"
 
+[autoload]
+
+Random="*res://Core/Random.gd"
+
 [display]
 
 window/stretch/mode="canvas_items"
 window/stretch/aspect="expand"
+
+[gui]
+
+theme/custom="res://Interface/Theme.tres"
+theme/custom_font="res://Interface/Font/SuperWhite.fnt"
 
 [rendering]
 
