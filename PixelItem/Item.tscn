@@ -34,7 +34,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 
 [node name="Panel" type="PanelContainer" parent="Center"]
-custom_minimum_size = Vector2(200, 512)
+custom_minimum_size = Vector2(222, 512)
 layout_mode = 2
 
 [node name="Margin" type="MarginContainer" parent="Center/Panel"]
