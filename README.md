@@ -6,11 +6,11 @@ Pixel-perfect lava weapon and armor sprites.
 
 - 📦 <http://henrysoftware.itch.io/godot-pixel-item> : more pixel assets
 - 🌐 <http://rakkarage.github.io/PixelItem> : run in browser
-- 📃 <http://guthub.com/rakkarage/PixelItem> : you are here, maybe
+- 📃 <http://github.com/rakkarage/PixelItem> : you are here, maybe
 
 ## Installation
 
-- `git clone --recurse-submodules http://guthub.com/rakkarage/PixelItem`
+- `git clone --recurse-submodules http://github.com/rakkarage/PixelItem`
 - Or `git submodule init` and `git submodule update`.
 
 ---
